@@ -54,5 +54,5 @@ buck-out/
 
 coverage/
 
-lib/
+lib/*
 !lib/package.json
